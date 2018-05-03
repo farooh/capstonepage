@@ -2230,7 +2230,7 @@
 			}
 
 		.image.round img {
-			border-radius: 100%;
+			border-radius: 5%;
 		}
 
 		.image.left {
@@ -3157,3 +3157,8 @@
 			}
 
 		}
+
+.pic {
+   width: 100px;
+   height: 2px;
+}
